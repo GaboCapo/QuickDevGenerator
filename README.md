@@ -8,7 +8,7 @@ It is designed for developers who want to streamline their workflow with clear a
 ## Features
 - **Templates** for programming languages like Python, Shell scripts, and more.
 - **Custom configurations**: Create your own templates and project structures.
-- **User-friendly GUI** for effortless operation.
+- ~~**User-friendly GUI** for effortless operation.~~ ( possibly later also a GUI, the tool will initially be console-based )
 
 ---
 
